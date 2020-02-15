@@ -1,5 +1,4 @@
 const baseRoute = "";
-const routerSort = ["home", "setting", "frn", "asset", "user", "order", "settlement", "auth"];
 
 const routerConfigArr = [
   {

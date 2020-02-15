@@ -1,5 +1,4 @@
 const baseRoute = "";
-const routerSort = ["dataStatistics", "setting", "frn", "asset", "user", "order", "settlement", "auth", "showProduct"];
 
 const routerConfigArr = [
   {
