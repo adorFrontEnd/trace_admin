@@ -1,7 +1,9 @@
 let domain = '';
 
-// domain='http://sys.trace.adorsmart.com:7100'
-domain='http://47.103.71.160:7100';
+//正式服
+domain='http://sys.trace.adorsmart.com:7100'
+//测试服
+// domain='http://47.103.71.160:7100';
 // domain = "http://192.168.20.50:7100";
 // 博文
 // domain = "http://192.168.20.95:7100";
